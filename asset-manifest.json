@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio-website/static/css/main.8e6e9e4b.css",
+    "main.js": "/personal-portfolio-website/static/js/main.84723bef.js",
+    "static/js/453.1407b060.chunk.js": "/personal-portfolio-website/static/js/453.1407b060.chunk.js",
+    "static/media/Rajashekhar_Surakanti_Resume.pdf.pdf": "/personal-portfolio-website/static/media/Rajashekhar_Surakanti_Resume.pdf.ec41cec913b0dc8e3cde.pdf",
+    "static/media/rajashekhar.jpeg": "/personal-portfolio-website/static/media/rajashekhar.d8eefae5f1115f59b38c.jpeg",
+    "index.html": "/personal-portfolio-website/index.html",
+    "main.8e6e9e4b.css.map": "/personal-portfolio-website/static/css/main.8e6e9e4b.css.map",
+    "main.84723bef.js.map": "/personal-portfolio-website/static/js/main.84723bef.js.map",
+    "453.1407b060.chunk.js.map": "/personal-portfolio-website/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e6e9e4b.css",
+    "static/js/main.84723bef.js"
+  ]
+}
